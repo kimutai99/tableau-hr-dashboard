@@ -1,4 +1,4 @@
-![HR Dashboard Preview](images/image.png)
+![HR Dashboard Preview](images/HR%20summary.png)
 
 # 📊 HR Analytics Dashboard – Tableau Project
 
